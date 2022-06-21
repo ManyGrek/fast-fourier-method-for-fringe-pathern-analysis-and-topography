@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Rascon Duran"
+  given-names: "Izael Manuel"
+- family-names: "Sanchez Morales"
+  given-names: "Jose Manuel"
+title: "fast-fourier-method-for-fringe-pathern-analysis-and-topography"
+version: 1.0.0
+doi: 10.5281/zenodo.6672957
+date-released: 2022-06-20
+url: "https://github.com/ManyGrek/fast-fourier-method-for-fringe-pathern-analysis-and-topography"
